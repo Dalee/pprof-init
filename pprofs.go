@@ -1,4 +1,4 @@
-package pprofs
+package pprof_init
 
 import (
 	"log"

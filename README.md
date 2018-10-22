@@ -1,4 +1,4 @@
-# Pprofs
+# Pprof init
 
 Simple library to automate pprof serving.
 
@@ -8,7 +8,7 @@ Example:
 package main
 
 import (
-	_ "github.com/Dalee/pprofs"
+	_ "github.com/Dalee/pprof_init"
 	"time"
 )
 
